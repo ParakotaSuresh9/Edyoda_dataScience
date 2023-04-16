@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Suresh",
+        "password": "suresh123",
+        "age": 25,
+        "Email": "parakotasuresh999@gmail.com",
+        "phone_number": "7207230522",
+        "address": "Nellore",
+        "order history": {
+            "02-24-2023": [
+                "Paani Poori"
+            ]
+        }
+    }
+]
